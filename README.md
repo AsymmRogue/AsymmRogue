@@ -10,3 +10,4 @@
 
 * **Operational Brand:** Asymm Rogue™
 * **Core Focus:** Mathematical & quantitative behavioral modeling and market microstructure diagnostics.
+* https://asymmrogue.gumroad.com/l/capucine
