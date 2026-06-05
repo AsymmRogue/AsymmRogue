@@ -1,7 +1,7 @@
 # ASYMM ROGUE™
 
 <p align="center">
-  <img src="card_asymm_rogue.png" alt="Asymm Rogue // The Capucine Neuro-Autonomic Equity Core" width="100%">
+  <img src="CAPUCINE NEURO-AUTONOMIC EQUITY CORE.png" alt="Asymm Rogue // The Capucine Neuro-Autonomic Equity Core" width="100%">
 </p>
 
 ---
